@@ -3,7 +3,7 @@ Author: Jerome Simmons
 Python programming of school district data
 
 ## Background
-Using Python, we have conducted an analysis of school district data (PyCitySchools_Module). The school board has notified us that the analysis shows evidence of academic dishonesty and Thomas High School (THS) ninth grader math and reading data have been altered. 
+Using Python, we have conducted an analysis of school district data (PyCitySchools_Module_Results). The school board has notified us that the analysis shows evidence of academic dishonesty and Thomas High School (THS) ninth grader math and reading data have been altered. 
 
 We have been asked to replace the math and reading scores for THS ninth graders and repeat our school district analysis (PyCitySchools_Challenge). Using both analysis reports, we have been asked to describe how the changes to the Thomas High School ninth grade data affected the overall analysis.
 
