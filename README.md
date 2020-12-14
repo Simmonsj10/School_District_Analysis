@@ -22,8 +22,8 @@ The impact of removing the ninth grade THS students is very negative at the scho
 * the perent of students passing math fell from  93.27% to 66.91%
 * the percent of students passing reading fell from 97.3% to 69.66%
 
-![Per_School_Summary_PCS_Module_Results.png](Per_School_Summary_PCS_Module_Results.png)
-![Per_School_Summary_PCS_Challenge.png](Per_School_Summary_PCS_Challenge.png)
+![Resources/Per_School_Summary_PCS_Module_Results.png](Resources/Per_School_Summary_PCS_Module_Results.png)
+![Resources/Per_School_Summary_PSC_Challenge.png](Resources/Per_School_Summary_PSC_Challenge.png)
 
 ### Performance Relative to Other Schools
 By replacing the ninth graders' math & reading scores, THS relative to other schools moves from the second best in terms of % Overall Passing to middle of the pack.
